@@ -18,4 +18,4 @@ jobs:
         python -m pip install --upgrade pip
     - name: Run tests
       run: | 
-        python -m py_compile py-game-dice-rolling.py
+        python -m py_compile py-system-information.py
